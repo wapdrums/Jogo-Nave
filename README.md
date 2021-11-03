@@ -1,2 +1,1 @@
-# Jogo-Nave
-Jogo Nave - DIO
+Space Shooter utilizando HTML, CSS e Javascript.
